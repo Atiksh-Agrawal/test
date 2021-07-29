@@ -1,4 +1,5 @@
-noseX,noseY = 0;
+noseY = 0;
+noseX = 0;
 
 difference = 0;
 rightHandX = 0;
