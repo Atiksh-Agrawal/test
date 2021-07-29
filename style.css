@@ -1,0 +1,28 @@
+body{
+    background-color: thistle;
+}
+
+h1{
+    background-color: aqua;
+    border-radius: 10px;
+    font-size: 42px;
+    top: 0;
+    box-shadow: 5px 5px 20px yellow;
+    width: 90%;
+    padding: 10px;
+}
+
+.note{
+    font-size: 20px;
+    color: red;
+}
+
+.footer{
+    background-color: red;
+    text-align: center;
+    font-size: 18px;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    color: whitesmoke;
+}
